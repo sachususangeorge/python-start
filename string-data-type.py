@@ -1,7 +1,3 @@
-from sunau import AUDIO_FILE_ENCODING_MULAW_8
-from unicodedata import name
-
-
 myString= "This is a string"
 print(myString)
 print(type(myString))
